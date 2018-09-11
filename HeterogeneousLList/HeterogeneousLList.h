@@ -32,7 +32,7 @@ public:
 	void removeElement(bool(*f)(const T& x));   // Functionality 6.
 	void sortList();                            // Functionality 7.
 	void printList();                           // Functionality 8.
-	void resultFile(ofstream& file);            // Functionality 11.
+	void resultFile(ofstream& file);            // Functionality 9.
 };
 
 #endif //_HETEROGENEOUSLLIST
